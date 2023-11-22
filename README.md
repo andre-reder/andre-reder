@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently developing with **Typescript, React, styled-components,NestJS, MongoDB and Prisma**
 
-- 📫 How to reach me **andrereder@gmail.com | https://www.linkedin.com/in/andrerederj/ | | https://wa.me/5511994445789/**
+- 📫 How to reach me **andrereder@gmail.com | https://www.linkedin.com/in/andrerederj/ | https://wa.me/5511994445789/**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/andrerederj](https://www.linkedin.com/in/andrerederj)
 
